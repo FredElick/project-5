@@ -1,3 +1,3 @@
-# Work Day Scheduler Starter Code
+# Work Day Scheduler
 
-This is a fairly simple scheduling app that allows you to add events through out your day which persist in local storage. The app will give you a rough idea of the time by highlighting each block a different color depending on if the events are in the past present or future. All time related issues are handled by moment.js with formatting from bootstrap connected to the javascript through jquery.
+This is a fairly simple scheduling app that allows you to add events through out your day which persist in local storage. The app will give you a rough idea of the time by highlighting each block a different color depending on if the events are in the past present or future. All time related issues are handled by moment.js with formatting from bootstrap connected to the javascript through jquery. Events will not be saved unless you hit the save button.
